@@ -5,33 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9b57ff3-584b-48b3-8fe5-ed347fe91fa4" name="Changes" comment="Project Has been built">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoRestStarter/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoRestStarter/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoRestStarter/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoRestStarter/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/djangoRestStarter/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/core/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/documents/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apps/users/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoRestStarter/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoRestStarter/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="37tW759gmw9AaZ2BWTXl8uBEIWF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,6 +55,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Projects/Django/djangoRestStarter",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,6 +76,7 @@
         <env name="DJANGO_SETTINGS_MODULE" value="djangoRestStarter.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (DjangoProject)" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -97,6 +110,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767722676731</updated>
       <workItem from="1767722677871" duration="431000" />
+      <workItem from="1767726918347" duration="1073000" />
     </task>
     <task id="LOCAL-00001" summary="Project Has been built">
       <option name="closed" value="true" />
