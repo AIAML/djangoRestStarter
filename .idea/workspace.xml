@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b57ff3-584b-48b3-8fe5-ed347fe91fa4" name="Changes" comment="Project Has been built">
-      <change afterPath="$PROJECT_DIR$/apps/core/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/documents/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/users/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/users/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/users/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/users/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/users/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/users/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/users/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/core/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoRestStarter/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoRestStarter/settings.py" afterDir="false" />
-    </list>
+    <list default="true" id="f9b57ff3-584b-48b3-8fe5-ed347fe91fa4" name="Changes" comment="Project Has been built" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +35,7 @@
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Projects/Django/djangoRestStarter",
     "node.js.detected.package.eslint": "true",
@@ -110,7 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767722676731</updated>
       <workItem from="1767722677871" duration="431000" />
-      <workItem from="1767726918347" duration="1073000" />
+      <workItem from="1767726918347" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="Project Has been built">
       <option name="closed" value="true" />
