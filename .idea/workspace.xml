@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9b57ff3-584b-48b3-8fe5-ed347fe91fa4" name="Changes" comment="Project Has been built" />
+    <list default="true" id="f9b57ff3-584b-48b3-8fe5-ed347fe91fa4" name="Changes" comment="Project Has been built">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoRestStarter/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoRestStarter/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1767722676731</updated>
       <workItem from="1767722677871" duration="431000" />
-      <workItem from="1767726918347" duration="1487000" />
+      <workItem from="1767726918347" duration="1989000" />
     </task>
     <task id="LOCAL-00001" summary="Project Has been built">
       <option name="closed" value="true" />
